@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <fstream>
 
-#define MAX	50
+#define MAX 50
 #define INF 999
 
 using namespace std;
